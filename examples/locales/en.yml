@@ -1,0 +1,3 @@
+en:
+  my:
+    message: "how are you %{timestamp}, %{name|Mister}?"
